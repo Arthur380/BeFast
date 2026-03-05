@@ -1,6 +1,6 @@
-## BeFast
+# BeFast
 
-# iRacing Telemetry Dashboards
+## iRacing Telemetry Dashboards
 
 A collection of **real-time dashboards for iRacing** designed to display important race information while you drive.
 
@@ -10,7 +10,7 @@ The goal of this project is to provide **clear, minimal and easy-to-read informa
 
 ---
 
-# Overview
+## Overview
 
 This application displays several **dashboards (widgets)** that update in real time while you are racing in iRacing.
 
@@ -27,7 +27,7 @@ The widgets can be positioned on your screen so they fit your preferred racing l
 
 ---
 
-# Features
+## Features
 
 * Real-time telemetry from iRacing
 * Lightweight overlay designed for racing
@@ -37,9 +37,9 @@ The widgets can be positioned on your screen so they fit your preferred racing l
 
 ---
 
-# Available Dashboards
+## Available Dashboards
 
-## Relative
+### Relative
 
 The **Relative dashboard** shows the cars around you on track.
 
@@ -60,7 +60,7 @@ This dashboard is very useful to quickly understand your **race situation** and 
 
 ---
 
-## Standing
+### Standing
 
 This dashboard provides general information about the current session, such as:
 
@@ -77,7 +77,7 @@ It helps you stay aware of the **overall race progress**.
 
 ---
 
-## Lap Times
+### Lap Times
 
 The **Lap Time dashboard** focuses on performance data.
 
@@ -91,7 +91,7 @@ This helps you track your **pace and consistency** during a session.
 
 ---
 
-## Panel
+### Panel
 
 This dashboard recreate a simplified car **panel**, it displays
 
@@ -110,7 +110,7 @@ This dashboard recreate a simplified car **panel**, it displays
 
 ---
 
-# Custom Layout
+## Custom Layout
 
 Dashboards are designed to be used as **overlay widgets**.
 
@@ -118,7 +118,7 @@ You can arrange them on your screen to match your personal setup and racing pref
 
 ---
 
-# Purpose of the Project
+## Purpose of the Project
 
 The main goal of this project is to create dashboards that are:
 
@@ -130,7 +130,7 @@ Instead of displaying large amounts of telemetry data, the dashboards focus only
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Possible future improvements include:
 
@@ -141,12 +141,12 @@ Possible future improvements include:
 
 ---
 
-# Screenshots
+## Screenshots
 
 Screenshots of the dashboards will be added here.
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This project is an independent tool created to enhance the **iRacing experience** and is not affiliated with iRacing.
