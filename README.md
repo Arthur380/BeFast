@@ -1,4 +1,4 @@
-# BeFast
+## BeFast
 
 # iRacing Telemetry Dashboards
 
