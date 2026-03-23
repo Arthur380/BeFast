@@ -41,6 +41,8 @@ The widgets can be positioned on your screen so they fit your preferred racing l
 
 ### Relative
 
+<img width="443" height="317" alt="image" src="https://github.com/user-attachments/assets/7328e68f-adeb-42ca-8886-0e2c5c0c4168" />
+
 The **Relative dashboard** shows the cars around you on track.
 
 It typically displays:
@@ -62,6 +64,8 @@ This dashboard is very useful to quickly understand your **race situation** and 
 
 ### Standing
 
+<img width="602" height="596" alt="image" src="https://github.com/user-attachments/assets/9a416051-a99b-4c29-a80a-613c72b64afd" />
+
 This dashboard provides general information about the current session, such as:
 
 * Bests/last laps of each car on every classes
@@ -77,21 +81,9 @@ It helps you stay aware of the **overall race progress**.
 
 ---
 
-### Lap Times
-
-The **Lap Time dashboard** focuses on performance data.
-
-It usually includes:
-
-* Last lap time
-* Best lap time
-* Time difference compared to previous laps
-
-This helps you track your **pace and consistency** during a session.
-
----
-
 ### Panel
+
+<img width="517" height="155" alt="image" src="https://github.com/user-attachments/assets/17e4d116-937e-4859-9e87-22295281cbb7" />
 
 This dashboard recreate a simplified car **panel**, it displays
 
