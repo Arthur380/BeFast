@@ -23,7 +23,7 @@ The dashboards are designed to:
 
 The widgets can be positioned on your screen so they fit your preferred racing layout.
 
-*(Screenshots will be added here)*
+<img width="2414" height="1416" alt="image" src="https://github.com/user-attachments/assets/b944304d-d40b-4320-814c-30f218d8166a" />
 
 ---
 
@@ -143,7 +143,8 @@ Possible future improvements include:
 
 ## Screenshots
 
-Screenshots of the dashboards will be added here.
+<img width="1380" height="462" alt="image" src="https://github.com/user-attachments/assets/152a50c0-20e0-4a2b-a063-01b5cac97974" />
+<img width="2414" height="1416" alt="image" src="https://github.com/user-attachments/assets/ae003434-239c-4959-8780-b920aba82571" />
 
 ---
 
