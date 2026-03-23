@@ -83,7 +83,7 @@ It helps you stay aware of the **overall race progress**.
 
 ### Panel
 
-<img width="517" height="155" alt="image" src="https://github.com/user-attachments/assets/17e4d116-937e-4859-9e87-22295281cbb7" />
+<img width="517" height="153" alt="image" src="https://github.com/user-attachments/assets/3b29f9d1-4a02-42b6-8e00-17ad7a7444f5" />
 
 This dashboard recreate a simplified car **panel**, it displays
 
